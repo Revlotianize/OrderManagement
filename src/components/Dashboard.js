@@ -99,6 +99,7 @@ class Dashboard extends Component {
                         // height={50}
                         // options={{ maintainAspectRatio: true }}
                     />
+                    
                 </div>
                 <div className= "bar">
                     <Bar className = "bar"
